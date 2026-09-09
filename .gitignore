@@ -1,0 +1,5 @@
+# Configuração de IDE
+.idea/
+
+# Build
+out/
