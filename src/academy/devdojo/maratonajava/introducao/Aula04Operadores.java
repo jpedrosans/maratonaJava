@@ -50,7 +50,7 @@ public class Aula04Operadores {
         // ++ --
         int contador1 = 0;
         int contador2 = 0;
-        contador1 += 1;        //contador = contador +1
+        contador1 += 1;       //contador = contador +1
         contador1++;          //contador = contador +1
         contador1--;          //contador = contador -1
         ++contador1;
