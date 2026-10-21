@@ -1,5 +1,6 @@
 # Configuração de IDE
 .idea/
+*.iml
 
 # Build
 out/
